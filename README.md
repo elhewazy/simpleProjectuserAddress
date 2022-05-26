@@ -1,5 +1,7 @@
 # simpleProjectuserAddress i will improve this app for more advanced feature
-this a simple project you can use Json format to add user with address 
+this a simple project you can use Json format to add user with address
+@quary param you can use ahmed to search by name or you can add as you like and search again by the name you add it
+http://localhost:8080/useres/search?name=ahmed
 http://localhost:8080/addUser
 {
     "name": "ahmed",
